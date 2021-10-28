@@ -122,6 +122,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="image.png" />
     <Content Include="img.png" />
     <Content Include="Readme.md" />
   </ItemGroup>
