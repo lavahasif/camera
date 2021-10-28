@@ -1,2 +1,1 @@
-﻿<img src="https://github.com/lavahasif/camera/blob/master/image.png">
-![](camera/image.png)
+﻿<img src="https://github.com/lavahasif/camera/blob/master/camera/image.png">
