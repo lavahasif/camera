@@ -1,1 +1,1 @@
-﻿![img.png](img.png)
+﻿<img src="https://github.com/lavahasif/camera/blob/master/img.png">>
